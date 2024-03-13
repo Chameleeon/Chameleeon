@@ -1,6 +1,5 @@
-<div id="header" align="center">
-  <img src="https://imgur.com/QrFFb2f" width="300"/>
-</div>
+<p align="center">
+  <img src="https://github.com/Chameleeon/Chameleeon/blob/main/chammy.png" width="200" title="hover text">
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/danilo-todorovi%C4%87-4a93a7181/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -8,19 +7,31 @@
   <img src="https://komarev.com/ghpvc/?username=Chameleeon&style=for-the-badge&color=green" alt=""/>
 </div>
 <div id="intro">
-  <p>Hey there. My name is Chameleeon. I am very interested in computers and how they work at the lowest level. I love learning everything about how things work under the hood with computers and all their components. </p>
+  <h1>
+    Who am I?
+  </h1>
+  <p>Hey there. Chameleeon here. I am very simple person with many interests and hobbies. I enjoy playing and making video games. I also enjoy learning everything about how computers work under the hood, which is why you can find some low level projects written in C/C++ on my page. I am currently studying Software Engineering. My current biggest project involves working on creating a relatively simple <b>2D game engine</b>. The repo should become public soon. I am also learning to write kernel drivers and I am very interested in things like reverse engineering and cybersecurity which I am looking forward to dipping my feet into as well.</p>
 </div>
-<!--
-**Chameleeon/Chameleeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="tools">
+  <h1>Tools I use</h1>
+  <p>Here some of the tools I use most and am fairly proficient in:</p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="Git" width="50" height="50"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="Linux" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="C" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cpp" alt="C++" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="cs" alt="C#" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore" alt="DOT NET CORE" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="maven" alt="Maven" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="nvim" alt="Neovim" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="opengl" alt="OpenGL" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="godot" alt="Godot" width="50" height="50"/>&nbsp;
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Chameleeon&theme=dark&background=000000)](https://git.io/streak-stats)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chameleeon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
