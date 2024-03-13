@@ -1,8 +1,15 @@
-### Hi there 👋
-<div id="header" align="center>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3plbTdjZ2F4MG1najR1MmZ3M3V3cGQ3eXdoN2Q0OHIyeXliYWZoZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="100"/>
+<div id="header" align="center">
+  <img src="https://imgur.com/QrFFb2f" width="300"/>
 </div>
-
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/danilo-todorovi%C4%87-4a93a7181/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Chameleeon&style=for-the-badge&color=green" alt=""/>
+</div>
+<div id="intro">
+  <p>Hey there. My name is Chameleeon. I am very interested in computers and how they work at the lowest level. I love learning everything about how things work under the hood with computers and all their components. </p>
+</div>
 <!--
 **Chameleeon/Chameleeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
