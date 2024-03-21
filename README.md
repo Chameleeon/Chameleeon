@@ -32,6 +32,6 @@
 ---
 
 ### My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Chameleeon&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chameleeon&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false&layout=piechart)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chameleeon&hide_progress=false&layout=compact&langs_count=10&theme=catppuccin_mocha)
