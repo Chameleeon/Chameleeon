@@ -10,7 +10,7 @@
   <h1>
     Who am I?
   </h1>
-  <p>Hey there. Chameleeon here. I am very simple person with many interests and hobbies. I enjoy playing and making video games. I also enjoy learning everything about how computers work under the hood, which is why you can find some low level projects written in C/C++ on my page. I am currently studying Software Engineering. My current biggest project involves working on creating a relatively simple <b>2D game engine</b>. The repo should become public soon. I am also learning to write kernel drivers and I am very interested in things like reverse engineering and cybersecurity which I am looking forward to dipping my feet into as well.</p>
+  <p>Hey there. Chameleeon here. I like learning fun and hard stuff. I really enjoy low level projects written in C and C++. Interested in game engines, rendering engines, drivers, reverse engineering, embedded engineering. Currently working on an autonomous car project. Participated in 5 hackathons. Got 1st place three times, 2nd place two times. Working on my graduation thesis.</p>
 </div>
 <div id="tools">
   <h1>Tools I use</h1>
